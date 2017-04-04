@@ -1,4 +1,4 @@
-# Udacity Maze Project
+# Udacity Apartment Project
 This project is part of the Udacity VR Nanodegree program, and was really the first big VR app that we created in the program.  This project focused on lighting techniques, and how to bake the lighting and lower some of the quality settings for optimal compatibility with mobile VR.  Youn can move around the apartment between four different waypoints, and each time you click, the globe on the end table will start or stop spinning.  As a bonus, I also added background noise to the scene, so be sure to put on headphones if you have some!
 
 ## Installation
